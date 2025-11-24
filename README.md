@@ -3,6 +3,7 @@ SlimeTree: 非可換環論（Operator Algebra）を基盤としたAIフレーム
 # SlimeTree: Time Crystal of Meaning
 
 ![Banner](https://image.jimcdn.com/app/cms/image/transf/dimension=640x5000:format=png/path/s618c8d49dc069a1c/image/i6e805d85bc3982a8/version/1762470643/image.png)
+
 非可換環論でAIグラフの限界を突破。循環依存を「結晶化」し、7x効率向上。
 
 ## インストール
